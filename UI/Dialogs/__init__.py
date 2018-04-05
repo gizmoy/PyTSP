@@ -1,0 +1,5 @@
+from UI.Dialogs.EvolutionParametersDialog import EvolutionParametersDialog
+from UI.Dialogs.MapGenerationDialog import MapGenerationDialog
+from UI.Dialogs.PopulationGenerationDialog import PopulationGenerationDialog
+from UI.Dialogs.PopulationListDialog import PopulationListDialog
+from UI.Dialogs.TSPGenMainWindow import TSPGenMainWindow
